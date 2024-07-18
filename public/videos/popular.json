@@ -1,0 +1,1675 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "vr7Rol8YA-czdZuGUdIlHPI7AwU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "azikGdYOq1kyYZ5Nif1r2B7ph6s",
+        "id": "ocBhZomiXuk",
+        "snippet": {
+          "publishedAt": "2024-07-01T16:00:06Z",
+          "channelId": "UCQoxJOkwaCgyzQtiuAIDcuw",
+          "title": "Megan Thee Stallion Gets Apology From Shannon Sharpe, Talks \"HISS,\" Beyoncé, Jay-Z, & Billie Eilish",
+          "description": "Three-time Grammy Award-winning artist Megan Thee Stallion joins Shannon Sharpe at Club Shay Shay for an in-depth and heartfelt conversation about her meteoric rise in the music industry. They discuss her groundbreaking achievements, including headlining her first arena tour and setting the highest attendance record for a female rapper at Madison Square Garden. Megan opens up about her journey, the importance of authenticity, the sisterhood she shares with fellow female artists, and the challenges she has faced along the way.\n\nShannon begins by taking a moment to apologize for a past joke, leading to a heartfelt exchange between the two. The conversation shifts to Megan's journey in the music industry. She discusses her experiences with creative control, collaboration, and overcoming challenges, including the difficulties of sample clearances and the importance of maintaining a positive outlook. Megan delves into the joys and difficulties of being her own boss, the value of writing her own verses, and the collaborative process in music.\n\nMegan talks about her studio habits, interactions with other artists, and memorable studio sessions. She reveals her admiration for Billie Eilish and her brother Finneas, her experiences working with artists like Cardi B and Victoria Monét, and her admiration for Beyoncé. Megan recounts meeting Beyoncé and the surreal experience of collaborating with her on the \"Savage\" remix. She emphasizes the importance of manifesting her dreams and feeling supported by her team at Roc Nation.\n\nShannon and Megan also discuss her love for reality TV, the importance of staying grounded, and the resilience that has driven her success. Megan shares insights into her personal growth, the challenges she has faced, and the support system that has helped her navigate the music industry.\n\nJoin Shannon Sharpe and Megan Thee Stallion for an inspiring episode filled with honesty, insider stories, and insights from one of the most influential artists in music today. Whether you're a die-hard fan of Megan Thee Stallion or simply enjoy candid conversations, this episode of Club Shay Shay is essential listening.\n \n\n#ClubShayShay\u200b #MeganTheeStallion #hiphop \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe – 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMegan Thee Stallion | EP. 130\n\nLink of Ep. \nhttps://youtu.be/ocBhZomiXuk\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ocBhZomiXuk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ocBhZomiXuk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ocBhZomiXuk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ocBhZomiXuk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ocBhZomiXuk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Club Shay Shay",
+          "tags": [
+            "Club Shay Shay",
+            "Club Shay Shay youtube",
+            "Shannon Sharpe podcast",
+            "Sharpe podcast",
+            "Shannon podcast",
+            "Club Shay Shay Shannon Sharpe",
+            "Club Shay Shay podcast",
+            "Shay Shay podcast",
+            "Shay Shay",
+            "Basketball",
+            "Music",
+            "Rapper",
+            "Megan Thee Stallion",
+            "Jay Z",
+            "Beyonce",
+            "Hip Hop",
+            "Bun B",
+            "Lil Kim",
+            "Queen Latifah",
+            "Houston",
+            "Texas",
+            "Texas Southern",
+            "Tennis",
+            "Volleyball",
+            "Cardi B",
+            "The Real Housewives of Atlanta",
+            "Documentary",
+            "Lil Nas X",
+            "Quavo",
+            "Maroon 5",
+            "Roc Nation",
+            "Victoria Monét",
+            "GloRilla",
+            "UGK",
+            "Angel Reese"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Megan Thee Stallion Gets Apology From Shannon Sharpe, Talks \"HISS,\" Beyoncé, Jay-Z, & Billie Eilish",
+            "description": "Three-time Grammy Award-winning artist Megan Thee Stallion joins Shannon Sharpe at Club Shay Shay for an in-depth and heartfelt conversation about her meteoric rise in the music industry. They discuss her groundbreaking achievements, including headlining her first arena tour and setting the highest attendance record for a female rapper at Madison Square Garden. Megan opens up about her journey, the importance of authenticity, the sisterhood she shares with fellow female artists, and the challenges she has faced along the way.\n\nShannon begins by taking a moment to apologize for a past joke, leading to a heartfelt exchange between the two. The conversation shifts to Megan's journey in the music industry. She discusses her experiences with creative control, collaboration, and overcoming challenges, including the difficulties of sample clearances and the importance of maintaining a positive outlook. Megan delves into the joys and difficulties of being her own boss, the value of writing her own verses, and the collaborative process in music.\n\nMegan talks about her studio habits, interactions with other artists, and memorable studio sessions. She reveals her admiration for Billie Eilish and her brother Finneas, her experiences working with artists like Cardi B and Victoria Monét, and her admiration for Beyoncé. Megan recounts meeting Beyoncé and the surreal experience of collaborating with her on the \"Savage\" remix. She emphasizes the importance of manifesting her dreams and feeling supported by her team at Roc Nation.\n\nShannon and Megan also discuss her love for reality TV, the importance of staying grounded, and the resilience that has driven her success. Megan shares insights into her personal growth, the challenges she has faced, and the support system that has helped her navigate the music industry.\n\nJoin Shannon Sharpe and Megan Thee Stallion for an inspiring episode filled with honesty, insider stories, and insights from one of the most influential artists in music today. Whether you're a die-hard fan of Megan Thee Stallion or simply enjoy candid conversations, this episode of Club Shay Shay is essential listening.\n \n\n#ClubShayShay\u200b #MeganTheeStallion #hiphop \n\nBuy LePortier: https://leportiercognac.com/products/shay_vsop_750ml/\n\nSUBSCRIBE to get the latest Club Shay Shay content: https://www.youtube.com/c/ClubShayShay?sub_confirmation=1\nListen to the Club Shay Shay podcast on Apple Podcasts: https://podcasts.apple.com/us/podcast/club-shay-shay/id1531023690\nListen to the Club Shay Shay podcast on Spotify: https://open.spotify.com/show/060hDdnydsJyMi17TmvyAh?si=iuda1z7oTE-21ZYzwiUdhg&nd=1\n\nLike Club Shay Shay on Facebook: https://m.facebook.com/ClubShayShay/\nFollow Club Shay Shay on Twitter: https://x.com/clubshayshay?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Instagram: https://instagram.com/clubshayshay?igshid=MzRlODBiNWFlZA==\nFollow Shannon Sharpe on Twitter: https://x.com/shannonsharpe?s=21&t=PF1soCgsTT_NEerDJm9Lfg\nFollow Club Shay Shay on Tik Tok: https://www.tiktok.com/@clubshayshaypod?_t=8fJ79WZy2fb&_r=1\n\nAbout Club Shay Shay:\nClub Shay Shay is a weekly podcast hosted by Shannon Sharpe – 3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of First Take on ESPN. Each week Shannon will sit down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. Get on the VIP list at Club Shay Shay NOW and never miss an episode!\n\nMegan Thee Stallion | EP. 130\n\nLink of Ep. \nhttps://youtu.be/ocBhZomiXuk\n\nClub Shay Shay\nhttps://www.youtube.com/c/ClubShayShay"
+          },
+          "defaultAudioLanguage": "en-US"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6i9VTvYpQP-3mw-geiKMgHn6Afc",
+        "id": "eP51tOTHbKg",
+        "snippet": {
+          "publishedAt": "2024-07-01T14:00:36Z",
+          "channelId": "UCzkfQt5vKDKFR74LtapkLEw",
+          "title": "The Woman Behind The Viral HAWK TUAH Meme Speaks Out For The First Time",
+          "description": "Haliey Welch has taken the internet by storm these past few weeks over a street interview that went mega viral. No one could find her but Brianna Lapaglia sat down with her and asked all the questions that the internet has been dying for. \n\nFOLLOW HALIEY'S SOCIALS: \nInstagram: https://www.instagram.com/hay_welch?igsh=Z3lyMDVkdnNtaGw5\nTikTok: https://www.tiktok.com/@hay_welch?_t=8nfqlRp3yNm&_r=1\n\n\nFollow us on Instagram: https://www.instagram.com/planbriuncut/\nFollow us on TikTok: https://www.tiktok.com/@planbriuncut?lang=en\nFollow us on Twitter: https://twitter.com/planbriuncut\nOur Merch: https://store.barstoolsports.com/collections/planbri-uncut?gad_source=1&gadid=&gclid=EAIaIQobChMI5OfqyMXOhAMVIWtHAR0ywwSVEAAYASAAEgLvMvD_BwE&utm_campaign=18065118167&utm_content=&utm_medium=paid&utm_source=google&utm_term=",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eP51tOTHbKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eP51tOTHbKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eP51tOTHbKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eP51tOTHbKg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eP51tOTHbKg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Plan Bri Uncut",
+          "tags": [
+            "Brianna",
+            "Brianna chickenfry",
+            "barstool",
+            "barstool sports",
+            "barstool chicks",
+            "instagram",
+            "tik tok",
+            "tik tok react",
+            "react",
+            "cringe",
+            "best of",
+            "worst of",
+            "reaction video",
+            "comedy",
+            "humor",
+            "original",
+            "brianna barstool",
+            "hungover",
+            "Grace O'Malley",
+            "Grace and Bri",
+            "Brianna LaPaglia",
+            "Barstool Bri",
+            "Barstool Grace",
+            "Grace and Bri barstool",
+            "sleep when you're dead",
+            "swyd",
+            "tik tok drama",
+            "tik tok news",
+            "Hawk tua",
+            "hawk tuah meme",
+            "hawk tuah",
+            "hailey welch",
+            "spit on that thang",
+            "hawk tuah girl"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "The Woman Behind The Viral HAWK TUAH Meme Speaks Out For The First Time",
+            "description": "Haliey Welch has taken the internet by storm these past few weeks over a street interview that went mega viral. No one could find her but Brianna Lapaglia sat down with her and asked all the questions that the internet has been dying for. \n\nFOLLOW HALIEY'S SOCIALS: \nInstagram: https://www.instagram.com/hay_welch?igsh=Z3lyMDVkdnNtaGw5\nTikTok: https://www.tiktok.com/@hay_welch?_t=8nfqlRp3yNm&_r=1\n\n\nFollow us on Instagram: https://www.instagram.com/planbriuncut/\nFollow us on TikTok: https://www.tiktok.com/@planbriuncut?lang=en\nFollow us on Twitter: https://twitter.com/planbriuncut\nOur Merch: https://store.barstoolsports.com/collections/planbri-uncut?gad_source=1&gadid=&gclid=EAIaIQobChMI5OfqyMXOhAMVIWtHAR0ywwSVEAAYASAAEgLvMvD_BwE&utm_campaign=18065118167&utm_content=&utm_medium=paid&utm_source=google&utm_term="
+          }
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IjcDRCd9W3d5KYWm65Xvkssq0mI",
+        "id": "X0HIrS6kUYI",
+        "snippet": {
+          "publishedAt": "2024-07-01T23:37:03Z",
+          "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+          "title": "Eminem - The Death of Slim Shady [Album Trailer]",
+          "description": "THE DEATH OF SLIM SHADY (COUP DE GRÂCE) ☠️ 7/12!!!\n\nhttp://eminem.com\nhttp://facebook.com/eminem\nhttp://twitter.com/eminem\nhttp://instagram.com/eminem\n\nhttp://shadyrecords.com\nhttp://facebook.com/shadyrecords\nhttp://twitter.com/shadyrecords\nhttp://instagram.com/shadyrecords\n\n#Eminem #thedeathofslimshady",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X0HIrS6kUYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X0HIrS6kUYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X0HIrS6kUYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/X0HIrS6kUYI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/X0HIrS6kUYI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "EminemMusic",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Eminem - The Death of Slim Shady [Album Trailer]",
+            "description": "THE DEATH OF SLIM SHADY (COUP DE GRÂCE) ☠️ 7/12!!!\n\nhttp://eminem.com\nhttp://facebook.com/eminem\nhttp://twitter.com/eminem\nhttp://instagram.com/eminem\n\nhttp://shadyrecords.com\nhttp://facebook.com/shadyrecords\nhttp://twitter.com/shadyrecords\nhttp://instagram.com/shadyrecords\n\n#Eminem #thedeathofslimshady"
+          }
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4yki_pxeKfTec5fM4xEN9u7M8zg",
+        "id": "uZ_O7PkUsu0",
+        "snippet": {
+          "publishedAt": "2024-07-01T03:42:56Z",
+          "channelId": "UCcVqCJ_9owb1zM43vqswMNQ",
+          "title": "Teyana Taylor, Victoria Monét, Coco Jones, Chlöe, Keke Palmer & More Honor Usher! | BET Awards '24",
+          "description": "ATE DOWN! The Usher Tribute will go in history as one of the greatest mashups of performers to honor a legend! #BETAwards #BET #culturesbiggestnight \n\n00:00 Childish Gambino & Keke Palmer \"You Don't Have To Call\"\n01:53 Keke Palmer \"You Make Me Wanna\"\n03:45 Summer Walker \"Good Good\"\n05:47 Coco Jones \"There Goes My Baby\"\n07:42 Marsha Ambrosius \"Superstar\"\n09:15 Chlöe \"Good Kisser\"\n10:58 Tinashe \"Nice & Slow\"\n13:24 Teyana Taylor & Victoria Monet \"Bad Girl\"\n15:16 Latto \"Yeah\"\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uZ_O7PkUsu0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uZ_O7PkUsu0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uZ_O7PkUsu0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uZ_O7PkUsu0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uZ_O7PkUsu0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BETNetworks",
+          "tags": [
+            "BET",
+            "BET Networks",
+            "BET Music",
+            "Black Entertainment Television",
+            "ytao_betawards_2024",
+            "BET Awards",
+            "BETA",
+            "BET Awards ‘24",
+            "black entertainment television",
+            "classic",
+            "BET Awards 2024",
+            "Awards Show",
+            "Culture's Biggest Night"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Teyana Taylor, Victoria Monét, Coco Jones, Chlöe, Keke Palmer & More Honor Usher! | BET Awards '24",
+            "description": "ATE DOWN! The Usher Tribute will go in history as one of the greatest mashups of performers to honor a legend! #BETAwards #BET #culturesbiggestnight \n\n00:00 Childish Gambino & Keke Palmer \"You Don't Have To Call\"\n01:53 Keke Palmer \"You Make Me Wanna\"\n03:45 Summer Walker \"Good Good\"\n05:47 Coco Jones \"There Goes My Baby\"\n07:42 Marsha Ambrosius \"Superstar\"\n09:15 Chlöe \"Good Kisser\"\n10:58 Tinashe \"Nice & Slow\"\n13:24 Teyana Taylor & Victoria Monet \"Bad Girl\"\n15:16 Latto \"Yeah\"\n\nSUBSCRIBE to #BET! ►► http://bit.ly/1U0v9xG\n\nStream Black Culture with BET+. Kick back and enjoy movies, TV series, exclusive originals and the best of Tyler Perry. Sign up for BET+ ►► http://bit.ly/betplus \n\nConnect with BET \nWeb: http://www.BET.com\nFacebook: http://www.facebook.com/BET\nTwitter: http://www.twitter.com/BET\nInstagram: http://www.instagram.com/BET\nBET+: https://www.bet.plus \nhttps://www.instagram.com/betplus/\nhttps://twitter.com/betplus\nhttps://www.facebook.com/yourbetplus/\nGoogle+: http://www.bet.us/gplusBET"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mJ654_GTbQ5lBZLiKvTC4jaEIAY",
+        "id": "CXwk0WPJAC4",
+        "snippet": {
+          "publishedAt": "2024-07-01T21:16:02Z",
+          "channelId": "UCkP_LwianocSJblyl5HF9Yg",
+          "title": "Our First KISS At DISNEYLAND!",
+          "description": "SUBSCRIBE WAKAS! ROAD TO 400K\n\nSceond Channel - https://www.youtube.com/@willitoextra     \nTwitch - https://www.twitch.tv/willitooo_\n\nSOCIAL MEDIA:\nInstagram - https://www.instagram.com/willitooo_/\nTikTok - https://www.tiktok.com/@.willito\n\n#willito #wendyortiz #willitoandwendy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CXwk0WPJAC4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CXwk0WPJAC4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CXwk0WPJAC4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CXwk0WPJAC4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CXwk0WPJAC4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Willito",
+          "tags": [
+            "willito",
+            "paqui one chip challenge",
+            "the paqui one chip challenge",
+            "willito and angie",
+            "willito live",
+            "willito extra",
+            "willy cuh and lalo",
+            "willito and oscar",
+            "tiktok",
+            "waka streams",
+            "tik tok",
+            "shawty bae disneyland",
+            "wendy ortiz",
+            "wendy",
+            "ortiz",
+            "willito and wendy",
+            "willito and wendy disneyland",
+            "disneyland",
+            "wendy ortiz and willito live",
+            "willito song",
+            "willito and wendy kiss"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Our First KISS At DISNEYLAND!",
+            "description": "SUBSCRIBE WAKAS! ROAD TO 400K\n\nSceond Channel - https://www.youtube.com/@willitoextra     \nTwitch - https://www.twitch.tv/willitooo_\n\nSOCIAL MEDIA:\nInstagram - https://www.instagram.com/willitooo_/\nTikTok - https://www.tiktok.com/@.willito\n\n#willito #wendyortiz #willitoandwendy"
+          }
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "a9Ei21vhsCRvgpx7kZDDMZmtKdU",
+        "id": "7K9jWptv61M",
+        "snippet": {
+          "publishedAt": "2024-06-30T17:29:05Z",
+          "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+          "title": "I Built a SECRET Soccer Field in My Room!",
+          "description": "I built 3 SECRET sports rooms in my house! The ending was crazy...\n\nSubscribe below! \nSTAY WILD @StayWild- \nCAM HUFF @CamHuff \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7K9jWptv61M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7K9jWptv61M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7K9jWptv61M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7K9jWptv61M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7K9jWptv61M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ben Azelart",
+          "tags": [
+            "ben azelart",
+            "brent rivera",
+            "Lexi rivera",
+            "stokes twins",
+            "ben Azelart girlfriend",
+            "Lexi rivera boyfriend",
+            "mylifeaseva",
+            "lexi hensler",
+            "Andrew davila",
+            "pierson",
+            "Pierson wodzynski",
+            "Jeremy hutchins",
+            "dom brack",
+            "Brent and pierson",
+            "Airrack",
+            "mrbeast",
+            "preston",
+            "unspeakable",
+            "Mathew beem",
+            "Ryan trahan",
+            "Secret",
+            "i built",
+            "secret room"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "I Built a SECRET Soccer Field in My Room!",
+            "description": "I built 3 SECRET sports rooms in my house! The ending was crazy...\n\nSubscribe below! \nSTAY WILD @StayWild- \nCAM HUFF @CamHuff \n\nGET THE MERCH! https://staywildshop.com\n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OFynKwnLnT3kXgRv2s7JAbIawwo",
+        "id": "UShsgCOzER4",
+        "snippet": {
+          "publishedAt": "2024-06-30T18:33:28Z",
+          "channelId": "UCTSRIY3GLFYIpkR2QwyeklA",
+          "title": "AI is ruining the internet",
+          "description": "Thanks to SoFi for sponsoring the video! Enter for a chance to win $10,000: https://sofi.com/drew\n\nOpen a Checking and Savings account to enter. No purchase necessary. See Rules for info & free entry method.\n\n0:00 - intro\n1:06 - google\n3:09 - the dead internet theory\n3:51 - facebook\n6:33 - twitter\n9:56 - instagram\n12:09 - character.ai\n13:15 - sofi\n14:17 - adobe\n16:54 - netflix\n17:52 - spotify/AI music\n24:24 - AI as a side hustle\n26:12 - AI video is terrifying\n29:41 - what is the point of this?\n\nmerch:\nhttps://www.drewgoodenshop.com/\n\nfollow me:\ntwitter - https://www.twitter.com/drewisgooden\ninstagram - https://www.instagram.com/drewisgooden\n\nthumbnail by David Altizer:\nhttps://twitter.com/dvdaltizer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UShsgCOzER4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UShsgCOzER4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UShsgCOzER4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UShsgCOzER4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UShsgCOzER4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Drew Gooden",
+          "tags": [
+            "drew gooden",
+            "comedy",
+            "commentary",
+            "reaction",
+            "vine",
+            "drew gooden vine",
+            "road work ahead guy",
+            "parody",
+            "rant",
+            "cringe",
+            "AI",
+            "sora",
+            "luma labs",
+            "ai video",
+            "ai memes",
+            "netflix",
+            "adobe",
+            "google",
+            "google ai",
+            "facebook ai",
+            "instagram ai"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "AI is ruining the internet",
+            "description": "Thanks to SoFi for sponsoring the video! Enter for a chance to win $10,000: https://sofi.com/drew\n\nOpen a Checking and Savings account to enter. No purchase necessary. See Rules for info & free entry method.\n\n0:00 - intro\n1:06 - google\n3:09 - the dead internet theory\n3:51 - facebook\n6:33 - twitter\n9:56 - instagram\n12:09 - character.ai\n13:15 - sofi\n14:17 - adobe\n16:54 - netflix\n17:52 - spotify/AI music\n24:24 - AI as a side hustle\n26:12 - AI video is terrifying\n29:41 - what is the point of this?\n\nmerch:\nhttps://www.drewgoodenshop.com/\n\nfollow me:\ntwitter - https://www.twitter.com/drewisgooden\ninstagram - https://www.instagram.com/drewisgooden\n\nthumbnail by David Altizer:\nhttps://twitter.com/dvdaltizer"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e4aKQM6_zQpBFFhKvM93GgsWvKw",
+        "id": "PPtJDKCkGs4",
+        "snippet": {
+          "publishedAt": "2024-06-30T19:00:06Z",
+          "channelId": "UCFAiFyGs6oDiF1Nf-rRJpZA",
+          "title": "Technoblade VS 100 Minecraft YouTubers",
+          "description": "\"Now I am become Technoblade, the Destroyer of Worlds\"\n\nTechnoblade Never Dies!\n\nMerch at: technoblade.com\n\nThumbnail artist:\nhttps://x.com/fotricxing\n\nMaximum possible thanks go to @TommyInnit for helping @MrTechnodad track down this footage. Tommy handled the entire process of editing this into shape and getting it ready for everyone to see! Thank you, Tommy!\n\nhttps://twitter.com/tommyinnit/status/1807114205746855964",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PPtJDKCkGs4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PPtJDKCkGs4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PPtJDKCkGs4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PPtJDKCkGs4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PPtJDKCkGs4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Technoblade",
+          "tags": [
+            "Minecraft",
+            "Technoblade",
+            "Technothepig",
+            "Hypixel",
+            "TommyInnit"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Technoblade VS 100 Minecraft YouTubers",
+            "description": "\"Now I am become Technoblade, the Destroyer of Worlds\"\n\nTechnoblade Never Dies!\n\nMerch at: technoblade.com\n\nThumbnail artist:\nhttps://x.com/fotricxing\n\nMaximum possible thanks go to @TommyInnit for helping @MrTechnodad track down this footage. Tommy handled the entire process of editing this into shape and getting it ready for everyone to see! Thank you, Tommy!\n\nhttps://twitter.com/tommyinnit/status/1807114205746855964"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FibdfC72lKzedrsUGCQXojXCg1k",
+        "id": "38g0X_x8MnQ",
+        "snippet": {
+          "publishedAt": "2024-07-01T22:22:11Z",
+          "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+          "title": "Portugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16",
+          "description": "Check out the top moments from this round-of-16 match between Portugal and Slovenia!\n\n#Euro2024 #Portugal #Slovenia\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nPortugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16\nhttps://youtu.be/38g0X_x8MnQ\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/38g0X_x8MnQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/38g0X_x8MnQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/38g0X_x8MnQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/38g0X_x8MnQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/38g0X_x8MnQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FOX Soccer",
+          "tags": [
+            "UEFA Euro",
+            "Cristiano Ronaldo",
+            "Portugal",
+            "Round of 16",
+            "Slovenia",
+            "sports",
+            "soccer",
+            "fox soccer",
+            "soccer on fox",
+            "Euro 2024",
+            "soccer tournament",
+            "international soccer",
+            "european soccer",
+            "sports talk",
+            "sports news",
+            "sports debate",
+            "soccer talk",
+            "soccer news",
+            "soccer debate",
+            "highlights",
+            "soccer highlights",
+            "sports highlights",
+            "fox",
+            "fox sports",
+            "fox sports 1",
+            "fs1",
+            "Euro on Fox",
+            "UEFA European Championship",
+            "fox YouTube"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Portugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16",
+            "description": "Check out the top moments from this round-of-16 match between Portugal and Slovenia!\n\n#Euro2024 #Portugal #Slovenia\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nPortugal vs. Slovenia Highlights | UEFA Euro 2024 | Round of 16\nhttps://youtu.be/38g0X_x8MnQ\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yO8EoSe2s2my_EHTcp6b003EcQM",
+        "id": "HasuLAkw0dA",
+        "snippet": {
+          "publishedAt": "2024-06-30T19:09:39Z",
+          "channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+          "title": "England vs. Slovakia Highlights | UEFA Euro 2024 | Round of 16",
+          "description": "Check out the top moments between England and Slovakia in the Round of 16!\n\n#FOXSoccer #Euro2024 #Slovakia \n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nEngland vs. Slovakia Highlights | UEFA Euro 2024 | Round of 16\nhttps://youtu.be/HasuLAkw0dA\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HasuLAkw0dA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HasuLAkw0dA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HasuLAkw0dA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HasuLAkw0dA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HasuLAkw0dA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FOX Soccer",
+          "tags": [
+            "soccer",
+            "euros",
+            "england",
+            "slovakia",
+            "England",
+            "Slovakia",
+            "England vs. Slovakia",
+            "England vs. Slovakia Highlights",
+            "UEFA Euro 2024",
+            "denmark",
+            "germany",
+            "Germany",
+            "Denmark",
+            "Germany vs. Denmark",
+            "switzerland",
+            "italy",
+            "UEFA 2024",
+            "Euro",
+            "Every Goal",
+            "uefa euro",
+            "red card",
+            "Mexico",
+            "Copa América",
+            "group stage",
+            "goals",
+            "fox soccer",
+            "soccer on fox",
+            "Euro 2024",
+            "sports debate",
+            "soccer talk",
+            "highlights",
+            "soccer highlights",
+            "sports highlights",
+            "fox",
+            "fox sports",
+            "Euro on Fox",
+            "fox sports highlights",
+            "Czechia vs. Türkiye",
+            "Harry Kane"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "England vs. Slovakia Highlights | UEFA Euro 2024 | Round of 16",
+            "description": "Check out the top moments between England and Slovakia in the Round of 16!\n\n#FOXSoccer #Euro2024 #Slovakia \n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nEngland vs. Slovakia Highlights | UEFA Euro 2024 | Round of 16\nhttps://youtu.be/HasuLAkw0dA\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uv-IfEaOicf2N0e-6XCDfG3yTB8",
+        "id": "3-YzCxEv92E",
+        "snippet": {
+          "publishedAt": "2024-07-01T13:00:06Z",
+          "channelId": "UCUOZvgB9Q8AgZjjLYcLWztQ",
+          "title": "Oklahoma and Texas join the SEC",
+          "description": "It's been the league addition that's been years in the making. Texas and Oklahoma finally become full fledged members of the Southeastern Conference. But their introduction to the other teams during lunch time gets a frosty reception.\n\nFeaturing @alostrich  @FunnyMaine  @JoshMancuso",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3-YzCxEv92E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3-YzCxEv92E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3-YzCxEv92E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3-YzCxEv92E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3-YzCxEv92E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SEC Shorts",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Oklahoma and Texas join the SEC",
+            "description": "It's been the league addition that's been years in the making. Texas and Oklahoma finally become full fledged members of the Southeastern Conference. But their introduction to the other teams during lunch time gets a frosty reception.\n\nFeaturing @alostrich  @FunnyMaine  @JoshMancuso"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BH9K3FBTQ-RYrviUj6oi6U_CtnE",
+        "id": "KkCXLABwHP0",
+        "snippet": {
+          "publishedAt": "2024-06-29T16:00:00Z",
+          "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+          "title": "I Built 100 Houses And Gave Them Away!",
+          "description": "Thank you for making this video possible\n\nTecho: https://techo.org/\nFFTP: https://foodforthepoor.org/housing-jamaica/\nNew Story: https://www.newstoryhomes.org/\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KkCXLABwHP0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KkCXLABwHP0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KkCXLABwHP0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KkCXLABwHP0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KkCXLABwHP0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MrBeast",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I Built 100 Houses And Gave Them Away!",
+            "description": "Thank you for making this video possible\n\nTecho: https://techo.org/\nFFTP: https://foodforthepoor.org/housing-jamaica/\nNew Story: https://www.newstoryhomes.org/\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\nMusic Provided by https://www.extrememusic.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9zEhWMHhJEYhQgFes-jXBmscDSw",
+        "id": "mps1HbpECIA",
+        "snippet": {
+          "publishedAt": "2024-07-01T15:00:54Z",
+          "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+          "title": "Trap | Official Trailer 2",
+          "description": "30,000 Fans.\n300 Cops.\n1 Serial Killer.\nNo Escape. #TrapMovie only in theaters August 2.\n\nOriginal songs by Saleka as Lady Raven. Pre-order the album and listen to \"Release\" available now: https://saleka.lnk.to/ladyraven\n\nWarner Bros. Pictures presents a new experience in the world of M. Night Shyamalan—“Trap” —featuring performances by rising music star Saleka Shyamalan.\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.\n\nWritten and directed by M. Night Shyamalan, “Trap” stars Josh Hartnett, Ariel Donoghue, Saleka Shyamalan, Hayley Mills and Allison Pill. The film is produced by Ashwin Rajan, Marc Bienstock and M. Night Shyamalan. The executive producer is Steven Schneider. \n\nThe director of photography is Sayombhu Mukdeeprom (“Call Me by Your Name”). The production designer is Debbie de Villa (“The Hating Game”). It is edited by Noëmi Preiswerk and the music is by Herdĭs Stefănsdŏttir (“Knock at the Cabin”). The music supervisor is Susan Jacobs (“Old”); the costume designer is Caroline Duncan (“Old”). The casting is by Douglas Aibel (“Asteroid City”).  \n\nWarner Bros. Pictures Presents A Blinding Edge Pictures Production, An M. Night Shyamalan Film: “Trap.” The film will be distributed worldwide by Warner Bros. Pictures, in theaters only nationwide on August 9, 2024 and internationally beginning on 1 August, 2024.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mps1HbpECIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mps1HbpECIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mps1HbpECIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mps1HbpECIA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mps1HbpECIA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Warner Bros. Pictures",
+          "tags": [
+            "2024",
+            "Allison Pill",
+            "Ariel Donoghue",
+            "Ashwin Rajan",
+            "Blinding Edge Pictures Production",
+            "Coming Soon",
+            "Hayley Mills",
+            "Horror",
+            "Josh Hartnett",
+            "M. Night Shyamalan",
+            "Marc Bienstock",
+            "Marnie McPhail",
+            "Movie",
+            "Mystery",
+            "Saleka Shyamalan",
+            "Steven Schneider",
+            "Thriller",
+            "Trailer",
+            "Trap",
+            "WB",
+            "Warner Bros",
+            "Warner Brothers"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Trap | Official Trailer 2",
+            "description": "30,000 Fans.\n300 Cops.\n1 Serial Killer.\nNo Escape. #TrapMovie only in theaters August 2.\n\nOriginal songs by Saleka as Lady Raven. Pre-order the album and listen to \"Release\" available now: https://saleka.lnk.to/ladyraven\n\nWarner Bros. Pictures presents a new experience in the world of M. Night Shyamalan—“Trap” —featuring performances by rising music star Saleka Shyamalan.\n\nA father and teen daughter attend a pop concert, where they realize they’re at the center of a dark and sinister event.\n\nWritten and directed by M. Night Shyamalan, “Trap” stars Josh Hartnett, Ariel Donoghue, Saleka Shyamalan, Hayley Mills and Allison Pill. The film is produced by Ashwin Rajan, Marc Bienstock and M. Night Shyamalan. The executive producer is Steven Schneider. \n\nThe director of photography is Sayombhu Mukdeeprom (“Call Me by Your Name”). The production designer is Debbie de Villa (“The Hating Game”). It is edited by Noëmi Preiswerk and the music is by Herdĭs Stefănsdŏttir (“Knock at the Cabin”). The music supervisor is Susan Jacobs (“Old”); the costume designer is Caroline Duncan (“Old”). The casting is by Douglas Aibel (“Asteroid City”).  \n\nWarner Bros. Pictures Presents A Blinding Edge Pictures Production, An M. Night Shyamalan Film: “Trap.” The film will be distributed worldwide by Warner Bros. Pictures, in theaters only nationwide on August 9, 2024 and internationally beginning on 1 August, 2024."
+          },
+          "defaultAudioLanguage": "en-US"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7cY35l-6uzi3lIOotyjwUKxZfI0",
+        "id": "9_sVGyJLs9w",
+        "snippet": {
+          "publishedAt": "2024-07-01T15:00:11Z",
+          "channelId": "UCvK4bOhULCpmLabd2pDMtnA",
+          "title": "80 Hours in the Country Everyone Wants to Leave",
+          "description": "Hi friends thank you for watching. If you need support in life, consider therapy with our sponsor BetterHelp. Click https://betterhelp.com/yestheory for a 10% discount on your first month of therapy with a licensed professional specific to your needs.\n\nWe try something new in the format of this episode as we explore this fascinating Southeastern European country. Thank you for watching, we appreciate ya :) -Thomas\n\n🙏🏼 Thank you for making these videos possible through your support of Seek Discomfort \n⚡️ SEEK DISCOMFORT: http://seek-discomfort.com/yes-theory\n\nMany thanks to the Grand Hotel Millennium Sofia and Kings’ Valley Medical & Spa Hotel for their exceptional hospitality and support! @grandhotelmillenniumsofia @kingsvalleymedicalspahotel \n\nThank you to Quentin for shooting this one with us:\nhttps://www.instagram.com/buggia__?igsh=NTc4MTIwNjQ2YQ==\nAnd thank you to the hilarious Eric for joining us on this one as well: https://www.instagram.com/erictabach?igsh=NTc4MTIwNjQ2YQ==\n\n✈ Book an Adventure: https://travel.yestheory.com/\n\nJOIN OUR COMMUNITY\n⁺ Seek Discomfort: https://www.youtube.com/seekdiscomfort\n📸 Instagram -  https://www.instagram.com/yestheory/\n🐦 Twitter - https://twitter.com/yestheory\n🎬  Facebook- https://www.facebook.com/yestheory/\n\n☮️ If you want to join the Yes Fam Facebook group which is 100,000+ of our most engaged and badass community members, you can apply here: \nhttps://www.facebook.com/groups/yesfam/\n\n🎥 HOW WE MAKE OUR VIDEOS\n\n🎵 Where we find our music:\n1- Epidemic Sound. Amazing royalty free music for YouTube. Free 30 day trial here: http://share.epidemicsound.com/wFFbr  \n\n2- Musicbed. Amazing label-quality cinematic music. 30-day free trial here:\nhttp://share.mscbd.fm/YesTheory\u200b\n\n3- Artlist. 2 Months Free High Quality Music: https://artlist.io/artlist-70446/?artlist_aid=YesTheory_593&utm_source=affiliate_p&utm_medium=YesTheory_593&utm_campaign=YesTheory_593\n\n4- Soundstripe: Get 15% off by using the code YESTHEORY at the link https://soundstripe.com?fpr=yestheory\n\n🎞 Our b-roll and stock footage:\n\n2 Months Free Stock Footage Videos: https://artgrid.io/artgrid-114820/?artlist_aid=YesTheory_593&utm_source=affiliate_p&utm_medium=YesTheory_593&utm_campaign=YesTheory_593\n\nFor an amazing b-roll and footage library, checkout:  http://www.storyblocks.com/YesTheory\n\n📈  Our Most Popular YouTube Videos\n🎬  Traveling to the least visited country in the world: https://youtu.be/ODuEl4oNae0\n🎬  Becoming Superhuman with Iceman Wim Hof: https://youtu.be/8cvhwquPqJ0\n🎬  We Helicopter Bungee Jumped with Will Smith: https://youtu.be/KSu6gRp7UBA\n\n🎙 The Yes Theory Podcast: https://spoti.fi/3sFdq6v\n\nGET IN TOUCH\n🌍 Our website -  http://www.yestheory.com \n🌍 Advertise With Us - partnerships@yestheory.com\n🌍 Production - production@yestheory.com \n \nWho are we? \nWe believe that life’s greatest moments and deepest connections exist outside of your comfort zone.\n\nAsk us a Question:\nTweet us @yestheory\n\nHosts: Thomas Brag, Staffan Taylor, Thomas Dajer, Erik Tabach\nEditors: Thomas Dajer, Cam Peddle, Driaan Louw, Aidan Chua\nProducer: Melida Berton\nProduction's Assistant: Beatrice Longo\nFilmmaker: Quentin Buggia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9_sVGyJLs9w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9_sVGyJLs9w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9_sVGyJLs9w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9_sVGyJLs9w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9_sVGyJLs9w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yes Theory",
+          "tags": [
+            "yestheory",
+            "seek discomfort",
+            "yes theory strangers",
+            "yes theory travel",
+            "yes theory subscribers",
+            "getting out of your comfort zone",
+            "Amazon FBA"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "80 Hours in the Country Everyone Wants to Leave",
+            "description": "Hi friends thank you for watching. If you need support in life, consider therapy with our sponsor BetterHelp. Click https://betterhelp.com/yestheory for a 10% discount on your first month of therapy with a licensed professional specific to your needs.\n\nWe try something new in the format of this episode as we explore this fascinating Southeastern European country. Thank you for watching, we appreciate ya :) -Thomas\n\n🙏🏼 Thank you for making these videos possible through your support of Seek Discomfort \n⚡️ SEEK DISCOMFORT: http://seek-discomfort.com/yes-theory\n\nMany thanks to the Grand Hotel Millennium Sofia and Kings’ Valley Medical & Spa Hotel for their exceptional hospitality and support! @grandhotelmillenniumsofia @kingsvalleymedicalspahotel \n\nThank you to Quentin for shooting this one with us:\nhttps://www.instagram.com/buggia__?igsh=NTc4MTIwNjQ2YQ==\nAnd thank you to the hilarious Eric for joining us on this one as well: https://www.instagram.com/erictabach?igsh=NTc4MTIwNjQ2YQ==\n\n✈ Book an Adventure: https://travel.yestheory.com/\n\nJOIN OUR COMMUNITY\n⁺ Seek Discomfort: https://www.youtube.com/seekdiscomfort\n📸 Instagram -  https://www.instagram.com/yestheory/\n🐦 Twitter - https://twitter.com/yestheory\n🎬  Facebook- https://www.facebook.com/yestheory/\n\n☮️ If you want to join the Yes Fam Facebook group which is 100,000+ of our most engaged and badass community members, you can apply here: \nhttps://www.facebook.com/groups/yesfam/\n\n🎥 HOW WE MAKE OUR VIDEOS\n\n🎵 Where we find our music:\n1- Epidemic Sound. Amazing royalty free music for YouTube. Free 30 day trial here: http://share.epidemicsound.com/wFFbr  \n\n2- Musicbed. Amazing label-quality cinematic music. 30-day free trial here:\nhttp://share.mscbd.fm/YesTheory\u200b\n\n3- Artlist. 2 Months Free High Quality Music: https://artlist.io/artlist-70446/?artlist_aid=YesTheory_593&utm_source=affiliate_p&utm_medium=YesTheory_593&utm_campaign=YesTheory_593\n\n4- Soundstripe: Get 15% off by using the code YESTHEORY at the link https://soundstripe.com?fpr=yestheory\n\n🎞 Our b-roll and stock footage:\n\n2 Months Free Stock Footage Videos: https://artgrid.io/artgrid-114820/?artlist_aid=YesTheory_593&utm_source=affiliate_p&utm_medium=YesTheory_593&utm_campaign=YesTheory_593\n\nFor an amazing b-roll and footage library, checkout:  http://www.storyblocks.com/YesTheory\n\n📈  Our Most Popular YouTube Videos\n🎬  Traveling to the least visited country in the world: https://youtu.be/ODuEl4oNae0\n🎬  Becoming Superhuman with Iceman Wim Hof: https://youtu.be/8cvhwquPqJ0\n🎬  We Helicopter Bungee Jumped with Will Smith: https://youtu.be/KSu6gRp7UBA\n\n🎙 The Yes Theory Podcast: https://spoti.fi/3sFdq6v\n\nGET IN TOUCH\n🌍 Our website -  http://www.yestheory.com \n🌍 Advertise With Us - partnerships@yestheory.com\n🌍 Production - production@yestheory.com \n \nWho are we? \nWe believe that life’s greatest moments and deepest connections exist outside of your comfort zone.\n\nAsk us a Question:\nTweet us @yestheory\n\nHosts: Thomas Brag, Staffan Taylor, Thomas Dajer, Erik Tabach\nEditors: Thomas Dajer, Cam Peddle, Driaan Louw, Aidan Chua\nProducer: Melida Berton\nProduction's Assistant: Beatrice Longo\nFilmmaker: Quentin Buggia"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GVnqP2ndEHKO86BcGoxr6tRVgLA",
+        "id": "wyiZWYMilgk",
+        "snippet": {
+          "publishedAt": "2024-06-30T15:14:19Z",
+          "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
+          "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | OFFICIAL TRAILER",
+          "description": "The end is near. Crunchyroll is excited to bring Demon Slayer: Kimetsu no Yaiba Infinity Castle to theaters as an epic trilogy event! Get more info here! https://got.cr/DSKNYIC-yt\n\nIt is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself.\n\nThough devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wyiZWYMilgk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wyiZWYMilgk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wyiZWYMilgk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wyiZWYMilgk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wyiZWYMilgk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crunchyroll",
+          "tags": [
+            "demon slayer",
+            "demon slayer anime",
+            "kimetsu no yaiba",
+            "kimestu no yaiba anime",
+            "demon slayer infinity castle",
+            "infinity castle",
+            "demon slayer infinity castle movie",
+            "demon slayer infinity castle pv",
+            "demon slayer infinity castle trailer",
+            "demon slayer infinity castle arc",
+            "crunchyroll",
+            "anime",
+            "anime trailer",
+            "anime preview",
+            "anime pv",
+            "infinity castle arc",
+            "infinity castle arc release date",
+            "infinity castle arc episode 1",
+            "demon slayer trailer",
+            "demon slayer infinity castle arc trailer"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | OFFICIAL TRAILER",
+            "description": "The end is near. Crunchyroll is excited to bring Demon Slayer: Kimetsu no Yaiba Infinity Castle to theaters as an epic trilogy event! Get more info here! https://got.cr/DSKNYIC-yt\n\nIt is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself.\n\nThough devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll"
+          },
+          "defaultAudioLanguage": "ja"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "P8TfEZytGcuKOMY7Z5MG2YZjOgA",
+        "id": "h4LOYLL_xkQ",
+        "snippet": {
+          "publishedAt": "2024-07-01T14:51:19Z",
+          "channelId": "UCe9DTWmhhxeKyYHL4mldGcA",
+          "title": "Cobra Kai Season 6: Part 1 | Official Trailer",
+          "description": "It's time to return to the dojo. The first five episodes of Cobra Kai S6 launch July 18, only on Netflix.\n\nWith Cobra Kai eliminated from the Valley, our senseis and students must decide if and how they will compete in the Sekai Taikai — the world championships of karate.\n\nWATCH all Cobra Kai Season 1, full episodes HERE: https://www.youtube.com/playlist?list=PLxm--8AYWEDelTYpYi2zulMEw-0T-M5IH\n\nSubscribe HERE: http://www.youtube.com/@cobrakai?sub_confirmation=1\n\nThirty-four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso.\n\nSeasons I-V Now Streaming | VI: July 18 only on Netflix\n\nBUY SEASONS 1-5 NOW ON DVD:\nSeason 1 & 2 Set: https://amzn.to/4bddVKw\nSeason 3: https://amzn.to/3xCyG4F\nSeason 4: https://amzn.to/4bbq96I\nSeason 5: https://amzn.to/3z8e6tA\n\nCobra Kai soundtracks are available on @madisongaterecords. Listen Now: https://www.sonypictures.com/tv/cobrakaimusic\n\n#CobraKai #CobraKaiTrailer #RalphMacchio #WilliamZabka",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h4LOYLL_xkQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h4LOYLL_xkQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h4LOYLL_xkQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h4LOYLL_xkQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h4LOYLL_xkQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cobra Kai",
+          "tags": [
+            "tv show",
+            "tv series",
+            "tv clip",
+            "clip",
+            "clips",
+            "tv series clip",
+            "youtube red original series",
+            "youtube red originals",
+            "youtube red",
+            "Cobra Kai",
+            "Karate Kid",
+            "Ralph Macchio",
+            "Billy Zabka",
+            "Xolo Maridueña",
+            "Courtney Henggeler",
+            "Mary Mouser",
+            "Tanner Buchanan",
+            "karate kid series",
+            "johnny lawrence",
+            "daniel larusso",
+            "cobra kai series",
+            "cobra kai youtube",
+            "wax on wax off",
+            "cobra kai karate kid",
+            "cobra kai no mercy",
+            "season 6",
+            "trailer"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cobra Kai Season 6: Part 1 | Official Trailer",
+            "description": "It's time to return to the dojo. The first five episodes of Cobra Kai S6 launch July 18, only on Netflix.\n\nWith Cobra Kai eliminated from the Valley, our senseis and students must decide if and how they will compete in the Sekai Taikai — the world championships of karate.\n\nWATCH all Cobra Kai Season 1, full episodes HERE: https://www.youtube.com/playlist?list=PLxm--8AYWEDelTYpYi2zulMEw-0T-M5IH\n\nSubscribe HERE: http://www.youtube.com/@cobrakai?sub_confirmation=1\n\nThirty-four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso.\n\nSeasons I-V Now Streaming | VI: July 18 only on Netflix\n\nBUY SEASONS 1-5 NOW ON DVD:\nSeason 1 & 2 Set: https://amzn.to/4bddVKw\nSeason 3: https://amzn.to/3xCyG4F\nSeason 4: https://amzn.to/4bbq96I\nSeason 5: https://amzn.to/3z8e6tA\n\nCobra Kai soundtracks are available on @madisongaterecords. Listen Now: https://www.sonypictures.com/tv/cobrakaimusic\n\n#CobraKai #CobraKaiTrailer #RalphMacchio #WilliamZabka"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lqO4rxoee1Q0JyJnv31ODmKzjOc",
+        "id": "xhKMwGozbic",
+        "snippet": {
+          "publishedAt": "2024-06-30T05:08:39Z",
+          "channelId": "UCvgfXK4nTYKudb0rFR6noLA",
+          "title": "Alex Pereira KOs Jiri Prochazka to Defend the Light Heavyweight Belt at UFC 303! 🏆",
+          "description": "Watch Alex Pereira's KO finish of Jiri Prochazka at UFC 303!\n\nOrder UFC PPV on ESPN+ ➡️ https://ufc.ac/3NKBvmx (U.S. only)\n\nOrder UFC PPV ➡️ https://ufc.com/ppv (Non U.S.)\n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: https://www.ufc.com\n🔵 Twitter: https://www.twitter.com/ufc\n🔵 Facebook: https://www.facebook.com/ufc\n🔴 Instagram: https://www.instagram.com/ufc\n🟡 Snapchat: https://www.snapchat.com/add/ufc\n🟣 Twitch: https://www.twitch.tv/ufc\n⏯️ UFC Video Archive: https://ufc.ac/3x6Wflx\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: https://www.twitter.com/ufcfightpass\n🔵 Facebook: https://www.facebook.com/ufcfightpass\n🔴 Instagram: https://www.instagram.com/ufcfightpass\n\n#UFC #ufc303",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xhKMwGozbic/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xhKMwGozbic/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xhKMwGozbic/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xhKMwGozbic/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xhKMwGozbic/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UFC",
+          "tags": [
+            "ufc",
+            "mma",
+            "ultimate fighting championship",
+            "KO",
+            "Alex pereira",
+            "Jiri Prochazka",
+            "UFC 303"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Alex Pereira KOs Jiri Prochazka to Defend the Light Heavyweight Belt at UFC 303! 🏆",
+            "description": "Watch Alex Pereira's KO finish of Jiri Prochazka at UFC 303!\n\nOrder UFC PPV on ESPN+ ➡️ https://ufc.ac/3NKBvmx (U.S. only)\n\nOrder UFC PPV ➡️ https://ufc.com/ppv (Non U.S.)\n\nSubscribe to get all the latest UFC content: https://ufc.ac/3u8FIJp\n\nExperience UFC live with UFC FIGHT PASS, the digital subscription service of the UFC. Visit https://ufcfightpass.com/\n\n👉 Shop official UFC Gear, visit https://ufcstore.com\n👉 Shop official UFC Memorabilia, visit https://ufccollectibles.com\n👉 Shop official UFC VIP Live Event Experiences, visit https://ufc.ac/3Oz2gLH\n\nConnect with UFC online and on Social:\n🔴 Website: https://www.ufc.com\n🔵 Twitter: https://www.twitter.com/ufc\n🔵 Facebook: https://www.facebook.com/ufc\n🔴 Instagram: https://www.instagram.com/ufc\n🟡 Snapchat: https://www.snapchat.com/add/ufc\n🟣 Twitch: https://www.twitch.tv/ufc\n⏯️ UFC Video Archive: https://ufc.ac/3x6Wflx\n\nConnect with UFC FIGHT PASS on Social:\n🔵 Twitter: https://www.twitter.com/ufcfightpass\n🔵 Facebook: https://www.facebook.com/ufcfightpass\n🔴 Instagram: https://www.instagram.com/ufcfightpass\n\n#UFC #ufc303"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NMk5YbsmCaxgf2S7tIaYUu1z4_E",
+        "id": "yh_OnJwnzq4",
+        "snippet": {
+          "publishedAt": "2024-06-30T19:23:47Z",
+          "channelId": "UC5p_l5ZeB_wGjO_yDXwiqvw",
+          "title": "730 Days Without Technoblade",
+          "description": "subscribe to technoblade\n\nedited by tommy + onlyantics (huge thanks to onlyantics for this one)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yh_OnJwnzq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yh_OnJwnzq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yh_OnJwnzq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yh_OnJwnzq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yh_OnJwnzq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TommyInnit",
+          "tags": [
+            "tommyinnit",
+            "minecraft",
+            "mine craft",
+            "dream",
+            "dream minecraft",
+            "technoblade",
+            "technoblade minecraft",
+            "funny",
+            "minecraft but",
+            "fun",
+            "365 Days Without Technoblade"
+          ],
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "730 Days Without Technoblade",
+            "description": "subscribe to technoblade\n\nedited by tommy + onlyantics (huge thanks to onlyantics for this one)"
+          },
+          "defaultAudioLanguage": "en-GB"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UK-Ou9p7I_5aCNry-i-shze3D-M",
+        "id": "xnz_gwVZzN4",
+        "snippet": {
+          "publishedAt": "2024-06-30T15:25:01Z",
+          "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+          "title": "We Turned our Home into a 5 STAR HOTEL",
+          "description": "We Turned our Home into a 5 STAR HOTEL\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉 @royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 \u200b\u2060 @RoyaltyGaming1 \n\nMore AMAZING Videos! 👇\n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\ni Survived the World's STRICTEST Babysitter\n👉 https://youtu.be/oC2o2-Nteyw?si=QA8BqYP16RCloMUz\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nWe Turned our Home into a 5 STAR HOTEL\nhttps://youtu.be/xnz_gwVZzN4\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xnz_gwVZzN4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xnz_gwVZzN4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xnz_gwVZzN4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xnz_gwVZzN4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xnz_gwVZzN4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Royalty Family",
+          "tags": [
+            "The Royalty Family",
+            "Royalty Family",
+            "Andrea Espada",
+            "Family Friendly",
+            "Royalty",
+            "Royal Family",
+            "The Royal Family",
+            "Royalty Fam",
+            "The Royalty Fam",
+            "Realty Family",
+            "Roti Family",
+            "Family Vlog",
+            "royalty family",
+            "royalty",
+            "royal",
+            "royalty fam",
+            "Ali andrea",
+            "Andrea ali",
+            "royalty gaming",
+            "royalty baby",
+            "challenge",
+            "Jordan matter",
+            "Rebecca zamolo",
+            "surviving",
+            "24 hours",
+            "I built",
+            "I built 5 secret rooms",
+            "We Turned our Home into a 5 Star Hotel",
+            "5 star hotel"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We Turned our Home into a 5 STAR HOTEL",
+            "description": "We Turned our Home into a 5 STAR HOTEL\n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 HERE 👉 @royaltyfam \n𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 To Gaming Channel 👉 \u200b\u2060 @RoyaltyGaming1 \n\nMore AMAZING Videos! 👇\n\nEating Only GAS STATION FOOD for 24 Hours!! 🤮\n👉 https://youtu.be/UtcJZnyFTQE\n\ni Survived the World's STRICTEST Babysitter\n👉 https://youtu.be/oC2o2-Nteyw?si=QA8BqYP16RCloMUz\n\nHOME ALONE Without Parents for 24 Hours *Security Cameras*\n👉 https://youtu.be/T6IuTOAYS8k?si=iG5BjzALXi0uACvl\n\nOur Son's EPIC 13th BIRTHDAY SURPRISE!\n👉 https://youtu.be/ppAIBR_BxO4\n\nHe Finally Got His DREAM Christmas PRESENT!! **EMOTIONAL**\n👉 https://youtu.be/Ot17zf95YNA?si=SSjqvSYrj8qqMmIg\n\nFather Tries to Find his SON Blindfolded!\n👉 https://youtu.be/oiY4DK1vgBY\n\nSon Tries to Find his MOM Blindfolded!\n👉 https://youtu.be/gTPu4NtqSz4?si=BuYVHfLEmKTJdldz\n\nour Son's EPIC Birthday Surprise!\n👉 https://youtu.be/56NrzRjZDko\n\nExtreme HIDE & SEEK at LARGEST IKEA! ft/ Jordan Matter\n👉 https://youtu.be/xUB_YHSJYTc\n\nWe ADOPTED a GIRL, But Our SON Gets JEALOUS! ft/ Jordan Matter\n👉 https://youtu.be/foQIRatJyj0\n\nFERRAN Has NEW PARENTS! Goodbye Son...W/ Rebecca Zamolo\n👉 https://youtu.be/atOfjAiSdFo\n\nWatch our RECENT VIDEOS  ➡ https://bit.ly/2JotKG4\nWatch Our POPULAR VIDEOS! ➡ http://bit.ly/2NgagCx\nWatch Our CHALLENGES  ➡ https://bit.ly/2kqDqVD\n\nFOLLOW IᑎᔕTᗩGᖇᗩᗰ HERE ☟\nANDREA ➡https://www.instagram.com/andreaespadatv/\nALI           ➡https://www.instagram.com/4kpapi/\nFERRAN  ➡https://www.instagram.com/kingferran/\nMILAN    ➡https://www.instagram.com/princemilan/\nFAMILY   ➡https://www.instagram.com/royaltyfamily/\nDAWGS  ➡https://www.instagram.com/royaltydawgs/\n\nBUSINESS INQUIRIES ➡ royaltyfambusiness@gmail.com\n\nWelcome To THE ROYALTY FAMILY! We're a multicultural family based in LA, here to spread positivity. We're all about challenges, fun games, adventure, and sharing our family journey. Join us every week in sharing the good times of Andrea, Ali, Ferran & Milan (and of course, our 2 dogs Gucci & Princessa)! Best of all, we believe everyone can be ROYALTY so don’t forget to SUBSCRIBE!! \n\n#challenge #royalty #RoyaltyFamily\n\nWe Turned our Home into a 5 STAR HOTEL\nhttps://youtu.be/xnz_gwVZzN4\n\nThe Royalty Family\nhttp://www.youtube.com/RoyaltyFam"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "giMqNi2zaaRCBs6mgM2forBKF70",
+        "id": "eJCHKjt0MPw",
+        "snippet": {
+          "publishedAt": "2024-06-30T15:00:08Z",
+          "channelId": "UCqwUnggBBct-AY2lAdI88jQ",
+          "title": "BABYMONSTER - ‘FOREVER’ M/V",
+          "description": "FOREVER\n\nAlright ok ok ok ok\nAlright ok\nBABYMONSTER\n\nI got no worries on my mind\n난 멈추지 않아\nSo you can say goodbye\n\nI’ll fulfill my fantasy\nAnd you can watch and see\n박수나 쳐보지\n\n눈부셔\nThey say she looking flawless\nI know\n타고났지 Like this\n\nShe’s unlike unlike anybody\n여기저기 다 난리 난리\n가나다라마바 싸가지\nGotta gotta go so c’est la vie\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nOK you know what it is\n\nI’m that nice 뭘 것 같아 너와 내 차이\nPull up on me pay the price\nPut a milli on a rock my type\nNever seen it in your life\n\n예뻐 그러니까 바빠 아니 나빠 온 세상 울리는 Bad girl\nB (B) A (A) B (B) Y (Y) M (M) O (O) N\nGet money\n\nBout it bout it 발끝까지 까지\n리듬 타지 타지 기분 짜릿짜릿\nEverybody get down\nRoll up on ‘em with the motor running\nI’mma give you something\nBet you put the money in the bag\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nI can see the bright horizon\n세상이란 벽을 넘어서\nNo nothing can stop me now\n\nWe forever forever\nForever ever ever\n\nOoh ooh\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever (Forever ever ever)\nForever (We forever forever forever ever ever)\nForever\n\nLike I’m gonna live\nLike I’m gonna live forever\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #FOREVER #MV #OUTNOW #YG\n\nAvailable @ https://BABYMONSTER.lnk.to/_FOREVER\n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@BABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/eJCHKjt0MPw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BABYMONSTER",
+          "tags": [
+            "BABYMONSTER",
+            "베이비몬스터",
+            "베몬",
+            "BABYMON",
+            "BAEMON",
+            "하람",
+            "아현",
+            "루카",
+            "치키타",
+            "파리타",
+            "로라",
+            "아사",
+            "HARAM",
+            "AHYEON",
+            "RUKA",
+            "CHIQUITA",
+            "PHARITA",
+            "RORA",
+            "ASA"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "BABYMONSTER - ‘FOREVER’ M/V",
+            "description": "FOREVER\n\nAlright ok ok ok ok\nAlright ok\nBABYMONSTER\n\nI got no worries on my mind\n난 멈추지 않아\nSo you can say goodbye\n\nI’ll fulfill my fantasy\nAnd you can watch and see\n박수나 쳐보지\n\n눈부셔\nThey say she looking flawless\nI know\n타고났지 Like this\n\nShe’s unlike unlike anybody\n여기저기 다 난리 난리\n가나다라마바 싸가지\nGotta gotta go so c’est la vie\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nOK you know what it is\n\nI’m that nice 뭘 것 같아 너와 내 차이\nPull up on me pay the price\nPut a milli on a rock my type\nNever seen it in your life\n\n예뻐 그러니까 바빠 아니 나빠 온 세상 울리는 Bad girl\nB (B) A (A) B (B) Y (Y) M (M) O (O) N\nGet money\n\nBout it bout it 발끝까지 까지\n리듬 타지 타지 기분 짜릿짜릿\nEverybody get down\nRoll up on ‘em with the motor running\nI’mma give you something\nBet you put the money in the bag\n\nI’m dancing in the moonlight\nOoh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ay\n\nCan’t stop this feeling tonight\nWhat you waiting for\n\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever\nLike I’mma live forever\nForever\nLike I’mma like I’mma\n\nForever\nLike I’m gonna live\nLike I’m gonna live forever\n\nI can see the bright horizon\n세상이란 벽을 넘어서\nNo nothing can stop me now\n\nWe forever forever\nForever ever ever\n\nOoh ooh\nBaby it was all a dream\nYou thought I was yours\n멋대로 착각하지는 마\n\nIt’s bitter it’s sweet\n저 하늘 높이\nI’m spreading my wings\nLike I’mma live\n\nForever (Forever ever ever)\nForever (We forever forever forever ever ever)\nForever\n\nLike I’m gonna live\nLike I’m gonna live forever\n\n#BABYMONSTER #베이비몬스터 #DigitalSingle #FOREVER #MV #OUTNOW #YG\n\nAvailable @ https://BABYMONSTER.lnk.to/_FOREVER\n\nMore about BABYMONSTER @\nOfficial YouTube https://www.youtube.com/@BABYMONSTER\nOfficial Instagram https://www.instagram.com/babymonster_ygofficial\nOfficial Facebook https://www.facebook.com/BABYMONSTER.ygofficial\nOfficial Twitter https://twitter.com/YGBABYMONSTER_\nOfficial TikTok https://tiktok.com/@babymonster_yg_tiktok\nOfficial Weibo https://weibo.com/u/7811488144\nOfficial bilibili https://space.bilibili.com/3493127232948989"
+          },
+          "defaultAudioLanguage": "ko"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SLIq0xkzjgON-u6yBMEGSVckI9U",
+        "id": "V44EenldJQs",
+        "snippet": {
+          "publishedAt": "2024-07-01T00:20:02Z",
+          "channelId": "UC20LoHy2mX0LQODrkUalxVQ",
+          "title": "Childish Gambino - Bando Stone & The New World (Official Trailer)",
+          "description": "BANDO STONE & THE NEW WORLD, featuring the original motion picture soundtrack by Childish Gambino.\n\n“LITHONIA” releases July 2nd https://childishgambino.lnk.to/Lithonia \n\nFollow Donald Glover:\nhttps://www.instagram.com/donaldglover/ \nhttps://www.tiktok.com/@donaldglover\nhttps://x.com/donaldglover\nhttps://www.facebook.com/donaldglover/\n\nFollow Childish Gambino\nhttps://www.instagram.com/childishgambino/\n\nFollow Bando Stone:\nhttps://www.instagram.com/bandostone\n\n#childishgambino #bandostone",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V44EenldJQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V44EenldJQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V44EenldJQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V44EenldJQs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V44EenldJQs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Donald Glover",
+          "tags": [
+            "Childish Gambino Atavista",
+            "Donald Glover Atavista",
+            "Childish Gambino 31520",
+            "Donald Glover 31520",
+            "Childish Gambino this is america",
+            "donald glover this is america",
+            "chidlish gambino awaken my love",
+            "gilga radio",
+            "gilga radio donald glover",
+            "gilga radio childish gambino",
+            "because the internet childish gambino",
+            "new childish gambino music 2024",
+            "childish gambino official video",
+            "Childish gambino 3005",
+            "donald glover 3005",
+            "little",
+            "foot",
+            "bando stone and the new world",
+            "lithonia"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Childish Gambino - Bando Stone & The New World (Official Trailer)",
+            "description": "BANDO STONE & THE NEW WORLD, featuring the original motion picture soundtrack by Childish Gambino.\n\n“LITHONIA” releases July 2nd https://childishgambino.lnk.to/Lithonia \n\nFollow Donald Glover:\nhttps://www.instagram.com/donaldglover/ \nhttps://www.tiktok.com/@donaldglover\nhttps://x.com/donaldglover\nhttps://www.facebook.com/donaldglover/\n\nFollow Childish Gambino\nhttps://www.instagram.com/childishgambino/\n\nFollow Bando Stone:\nhttps://www.instagram.com/bandostone\n\n#childishgambino #bandostone"
+          },
+          "defaultAudioLanguage": "en-US"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k0VKuLsE5opxc8Sc6nBERhMG0NM",
+        "id": "_3yNSErprac",
+        "snippet": {
+          "publishedAt": "2024-06-30T21:00:29Z",
+          "channelId": "UCXjvsikVclbNRGRlzr8jTEg",
+          "title": "Smartest Plays in Baseball History",
+          "description": "The description box should read: Use code BASEBALLDOESNT50 to get 50% OFF your first Factor box plus 20% off your next month at https://bit.ly/3XH2Q1d!\n\nLike and Subscribe\n\nPodcast: https://beacons.ai/baseballisdeadpod\nTwitter: @Baseballdoesnt \nInstagram: @baseballdoesntexist\nTik Tok: @bbldoesntexist\nEmail: Baseballdoesnt@gmail.com\nEdited By: Aidan.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_3yNSErprac/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_3yNSErprac/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_3yNSErprac/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_3yNSErprac/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_3yNSErprac/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Baseball Doesn't Exist",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Smartest Plays in Baseball History",
+            "description": "The description box should read: Use code BASEBALLDOESNT50 to get 50% OFF your first Factor box plus 20% off your next month at https://bit.ly/3XH2Q1d!\n\nLike and Subscribe\n\nPodcast: https://beacons.ai/baseballisdeadpod\nTwitter: @Baseballdoesnt \nInstagram: @baseballdoesntexist\nTik Tok: @bbldoesntexist\nEmail: Baseballdoesnt@gmail.com\nEdited By: Aidan."
+          },
+          "defaultAudioLanguage": "en"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PpksaavrAe57N9KPqGAI1JR7Xog",
+        "id": "r8JHZWv2XHU",
+        "snippet": {
+          "publishedAt": "2024-06-26T12:22:40Z",
+          "channelId": "UC33-OkQ6VCYk8xtml8Pk4-g",
+          "title": "NRL 2024 | Blues v Maroons | Match Highlights",
+          "description": "The New South Wales Blues and the Queensland Maroons face off in Game 2 of the 2024 Ampol State of Origin series\n\n🏉 SUBSCRIBE FOR MORE NRL ACTION 🏉\nhttps://www.youtube.com/channel/UC33-OkQ6VCYk8xtml8Pk4-g?sub_confirmation=1\n\n🏉 Subscribe to the official NRLW Channel 🏉https://www.youtube.com/channel/UCME0EifJ3Xm3mGmLdBz1Kyw?sub_confirmation=1\n\nTo keep up to date with all the latest NRL content head to:\nNRL Watch: https://www.nrl.com/watch/\nNRL Tickets: https://tickets.nrl.com/\nNRL Draw: https://www.nrl.com/draw/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r8JHZWv2XHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r8JHZWv2XHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r8JHZWv2XHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r8JHZWv2XHU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r8JHZWv2XHU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NRL - National Rugby League",
+          "tags": [
+            "NRL",
+            "National Rugby League",
+            "Games",
+            "Matches",
+            "Highlights",
+            "Rugby",
+            "Telstra Premiership",
+            "Fox Sports",
+            "State of Origin",
+            "Nine",
+            "NRL Highlights",
+            "NRL Game Highlights",
+            "Rugby League Highlights",
+            "Rugby League",
+            "NRL Full Match",
+            "NRL Live",
+            "Watch NRL",
+            "NRL Match Highlights",
+            "Rugby league highlights",
+            "NRL 2023",
+            "NRL 2023 highlights",
+            "NRL23",
+            "NRL23 highlights",
+            "NRL scores",
+            "nrl schedule",
+            "nrl draw",
+            "NRLW",
+            "NRL Women's",
+            "nrl women's highlights",
+            "NRL pre-season",
+            "NRL trials"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "NRL 2024 | Blues v Maroons | Match Highlights",
+            "description": "The New South Wales Blues and the Queensland Maroons face off in Game 2 of the 2024 Ampol State of Origin series\n\n🏉 SUBSCRIBE FOR MORE NRL ACTION 🏉\nhttps://www.youtube.com/channel/UC33-OkQ6VCYk8xtml8Pk4-g?sub_confirmation=1\n\n🏉 Subscribe to the official NRLW Channel 🏉https://www.youtube.com/channel/UCME0EifJ3Xm3mGmLdBz1Kyw?sub_confirmation=1\n\nTo keep up to date with all the latest NRL content head to:\nNRL Watch: https://www.nrl.com/watch/\nNRL Tickets: https://tickets.nrl.com/\nNRL Draw: https://www.nrl.com/draw/"
+          }
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WhpqzRTW1SKYPo8VYWOmyxDg05o",
+        "id": "s-UXxaQdUew",
+        "snippet": {
+          "publishedAt": "2024-07-01T08:59:57Z",
+          "channelId": "UCod5V2dpnpJLklGvVOv5FcQ",
+          "title": "STAYC(스테이씨) 'Cheeky Icy Thang' MV",
+          "description": "STAYC The 1st Album\n[𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜] Release\n\n'Cheeky Icy Thang' MV\n\nStreaming & Download\nSTAYC.lnk.to/Metamorphic\n\n#STAYC #스테이씨 \n#Metamorphic\n#STAYC_Metamorphic\n#CheekyIcyThang #치아땡 \n#이번_여름_얼음땡_아니고_치아땡\n\n[STAYC Official SNS] \n\nYoutube ▶ https://www.youtube.com/c/STAYC\nInstagram ▶ https://www.instagram.com/stayc_highup\nTwitter ▶ https://twitter.com/STAYC_official\nFacebook ▶ https://www.facebook.com/STAYC201112\nTikTok ▶ https://www.tiktok.com/@stayc_official\nWeverse ▶ https://www.weverse.io/stayc/feed\nFancafe ▶ https://cafe.daum.net/STAYC\nWeibo ▶ https://weibo.com/STAYChighup",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/s-UXxaQdUew/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/s-UXxaQdUew/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/s-UXxaQdUew/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/s-UXxaQdUew/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/s-UXxaQdUew/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "STAYC",
+          "tags": [
+            "STAYC",
+            "스테이씨",
+            "수민",
+            "배수민",
+            "시은",
+            "박시은",
+            "아이사",
+            "이채영",
+            "채영",
+            "세은",
+            "윤세은",
+            "심자윤",
+            "자윤",
+            "재이",
+            "예은",
+            "장예은",
+            "sumin",
+            "sieun",
+            "ISA",
+            "seeun",
+            "yoon",
+            "하이업엔터테인먼트",
+            "하이업",
+            "블랙아이드필승",
+            "블아필",
+            "highupent",
+            "스테이시",
+            "SWITH",
+            "스윗"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ko",
+          "localized": {
+            "title": "STAYC(스테이씨) 'Cheeky Icy Thang' MV",
+            "description": "STAYC The 1st Album\n[𝐌𝐞𝐭𝐚𝐦𝐨𝐫𝐩𝐡𝐢𝐜] Release\n\n'Cheeky Icy Thang' MV\n\nStreaming & Download\nSTAYC.lnk.to/Metamorphic\n\n#STAYC #스테이씨 \n#Metamorphic\n#STAYC_Metamorphic\n#CheekyIcyThang #치아땡 \n#이번_여름_얼음땡_아니고_치아땡\n\n[STAYC Official SNS] \n\nYoutube ▶ https://www.youtube.com/c/STAYC\nInstagram ▶ https://www.instagram.com/stayc_highup\nTwitter ▶ https://twitter.com/STAYC_official\nFacebook ▶ https://www.facebook.com/STAYC201112\nTikTok ▶ https://www.tiktok.com/@stayc_official\nWeverse ▶ https://www.weverse.io/stayc/feed\nFancafe ▶ https://cafe.daum.net/STAYC\nWeibo ▶ https://weibo.com/STAYChighup"
+          },
+          "defaultAudioLanguage": "ko"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g00s2IgEs59Fc7NFmfeOKona3QM",
+        "id": "XIeeCmQ6Plo",
+        "snippet": {
+          "publishedAt": "2024-06-30T16:00:36Z",
+          "channelId": "UCXMwCQVey4PhdWFJ6WhAVhA",
+          "title": "sleepovers",
+          "description": "GET READY FOR ZENLESS ZONE ZERO'S OFFICIAL RELEASE  ON JULY 4TH AND USE MY LINK TO REGISTER:  https://hoyo.link/1oOiFGBL\n\n#zenless0704 #zzzero #zenlesszonezero\n\n\ntoday we're talking about our sleepover stories\n\n\nTwitter  → https://bit.ly/2MrebAu\nReddit → https://bit.ly/3apoz3C\nDiscord  → https://bit.ly/3aoc08U\nInsta  →  https://bit.ly/2MRg4WP\nFacebook → https://bit.ly/3LsRSWn\nSnapchat → https://bit.ly/48iD46w\n\n\n@tuxy \n@FatMemeGod \n@Nadweyt \n@allyvt \n@oofistooshortt \n@TbhHonest \n@MuffinJuice \n@BlazaPlays \n\n\n\n\n\nITEL https://twitter.com/itelldraws\nCOOL https://twitter.com/coolnaisu",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XIeeCmQ6Plo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XIeeCmQ6Plo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XIeeCmQ6Plo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XIeeCmQ6Plo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XIeeCmQ6Plo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SocksStudios",
+          "tags": [
+            "sleepover",
+            "animation",
+            "sleepover cartoon",
+            "funny animation",
+            "funny cartoon",
+            "funny cartoons",
+            "funny",
+            "cartoon",
+            "cartoon show",
+            "funny cartoon videos",
+            "funny videos",
+            "sleepover animation",
+            "cartoon videos",
+            "funny animation memes",
+            "funny animation videos",
+            "funny animated story",
+            "sleepover party",
+            "cartoon video",
+            "sleepover pranks",
+            "sleepovers",
+            "sleepover prank",
+            "pov you fell asleep first at the sleepover",
+            "every sleepover",
+            "animations",
+            "sleepover ideas",
+            "spooky sleepover",
+            "animation story",
+            "sleeping pranks"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "sleepovers",
+            "description": "GET READY FOR ZENLESS ZONE ZERO'S OFFICIAL RELEASE  ON JULY 4TH AND USE MY LINK TO REGISTER:  https://hoyo.link/1oOiFGBL\n\n#zenless0704 #zzzero #zenlesszonezero\n\n\ntoday we're talking about our sleepover stories\n\n\nTwitter  → https://bit.ly/2MrebAu\nReddit → https://bit.ly/3apoz3C\nDiscord  → https://bit.ly/3aoc08U\nInsta  →  https://bit.ly/2MRg4WP\nFacebook → https://bit.ly/3LsRSWn\nSnapchat → https://bit.ly/48iD46w\n\n\n@tuxy \n@FatMemeGod \n@Nadweyt \n@allyvt \n@oofistooshortt \n@TbhHonest \n@MuffinJuice \n@BlazaPlays \n\n\n\n\n\nITEL https://twitter.com/itelldraws\nCOOL https://twitter.com/coolnaisu"
+          },
+          "defaultAudioLanguage": "en"
+        }
+      }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 25
+    }
+  }

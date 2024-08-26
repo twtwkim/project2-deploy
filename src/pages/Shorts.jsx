@@ -16,11 +16,10 @@ const Shorts = () => {
 
     const {
         data,
-        fetchNextPage,
+        
         hasNextPage,
         isFetchingNextPage,
-        isLoading,
-        error,
+        
     } = useInfiniteQuery({
         queryKey: ['shorts'],
         queryFn: fetchShorts,

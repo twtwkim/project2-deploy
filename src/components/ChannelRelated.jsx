@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 const ChannelRelated = ({video, type}) => {
     const {title, thumbnails, channelTitle, publishedAt, channelId} = video.snippet;
-    const videoId = video.id;
+    
     const navigate = useNavigate();
     const isList = type ==='list'
     return (

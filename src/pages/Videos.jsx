@@ -1,4 +1,4 @@
-import { useQuery, useInfiniteQuery } from '@tanstack/react-query';
+import { useInfiniteQuery } from '@tanstack/react-query';
 import React, { useRef, useCallback } from 'react';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
